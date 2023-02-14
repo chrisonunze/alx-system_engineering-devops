@@ -7,3 +7,4 @@
 6-create_local_variable: This creates a new local variable.
 7-create_global_variable: This creates a new global variable.
 8-true_knowledge: This prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+9-divide_and_rule: This prints the result of POWER divided by DIVIDE, followed by a new line.
